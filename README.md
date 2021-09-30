@@ -1,7 +1,7 @@
 <h1 align="center">TETRIS-OPTIMIZER</h1>
 
 ## About The Project
-Tetris-optimizer is a program that receives only one argument, a path to a text file which will contain a list of tetrominoes to assemble them in order to create the smallest square possible.
+Tetris-optimizer is a program that receives only one argument, a path to a text file which contains a list of tetrominoes to assemble them in order to create the smallest square possible.
 
 ## Installation
 ```
